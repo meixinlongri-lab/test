@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>天音食堂デジタルアーカイブ 
+  </title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>天音食堂デジタルアーカイブ</h1>
+    <nav>
+      <ul>
+        <li><a href="#about">天音食堂３Ⅾモデル</a></li>
+        <li><a href="#services">サービス</a></li>
+        <li><a href="#contact">お問い合わせ</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <section id="about">
+        <h2>天音食堂３Ⅾモデル</h2>
+    <p>天音食堂を、フォトグラメトリという技術を使って３Ⅾモデル化しました。取り壊される前の天音食堂の形をそのままに、３Ⅾ空間でお楽しみいただけます。<p>
+        <div class="sketchfab-embed-wrapper"> <iframe title="植生土嚢" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/c79015049a0840e5bdd31b6b44f2bcc2/embed"> </iframe> </div><p></p>
+    </section>
+    <section id="services">
+      <h2>サービス</h2>
+      <p>提供するサービスの説明を入れます。</p>
+    </section>
+    <section id="contact">
+      <h2>お問い合わせ</h2>
+      <p>連絡先情報を入れます。</p>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2026 デジタルアーカイブ
+    </p>
+  </footer>
+</body>
